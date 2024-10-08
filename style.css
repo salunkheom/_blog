@@ -279,36 +279,7 @@ button {
     text-align: center;
     text-transform: uppercase;
 }
-
-.image_main {
-    width: 100%;
-    float: left;
-    padding-top: 50px;
-}
-
-.image_1 {
-    width: 100%;
-    float: left;
-    border: 30px solid #ffffff;
-}
-
-.contact_bt {
-    width: 180px;
-    margin: 0 auto;
-    text-align: center;
-}
-
-.contact_bt a {
-    width: 100%;
-    float: left;
-    font-size: 18px;
-    color: #ffffff;
-    text-align: center;
-    background-color: #000;
-    text-transform: uppercase;
-    padding: 8px 5px;
-    margin-top: 50px;
-}
+image_main
 
 .contact_bt a:hover {
     color: #ffffff;

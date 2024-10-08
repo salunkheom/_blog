@@ -860,6 +860,10 @@ button {
     padding-bottom: 90px;
     padding-top: 170px;
 }
+.contact_img img{
+    height:500px;
+    width:500px;
+}
 
 .contact_img {
     width: 100%;
